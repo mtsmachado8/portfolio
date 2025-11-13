@@ -1,0 +1,215 @@
+{
+  "header": {
+    "name": "MATEUS DA SILVA MACHADO",
+    "title": "Product Owner | Product Manager | Project Manager | Software Developer | Chief Technology Officer",
+    "subtitle": "Engenheiro da Computação",
+    "location": "Brasileiro, Casado, 30",
+    "email": "mtsmachado8@gmail.com",
+    "phone": "+55 19 99700-2292"
+  },
+  "summary": {
+    "title": "SUMÁRIO",
+    "description": "Faço tecnologia virar produto rentável que cresce rápido e resolve problemas reais de negócio.",
+    "experience": "Tenho +7 anos de experiência construindo resultados em software, produto digital e gestão de projetos, com histórico de +40 entregas de alto impacto, 8 equipes lideradas e 5 projetos escalados.",
+    "achievements": [
+      "Estruturei uma software house do zero e entreguei +10 soluções digitais sob medida, impactando receita e expansão de clientes.",
+      "Conduzi a transformação de times ágeis, eliminando gargalos e aumentando a velocidade de entrega em 42%.",
+      "Liderei integração de sistemas em grupo farmacêutico e gerei rollout de produtos que aceleraram vendas em +15%.",
+      "Escalei um e-commerce nacional com arquitetura resiliente, dobrando a base de usuários ativos em menos de 1 ano."
+    ]
+  },
+  "skills": {
+    "title": "SISTEMAS / TECH SKILLS",
+    "languages": "Linguagens",
+    "frameworks": "Frameworks",
+    "infra": "Infraestrutura",
+    "databases": "Banco de Dados",
+    "analytics": "Análises",
+    "management": "Gestão & Design"
+  },
+  "competencies": {
+    "title": "COMPETÊNCIAS",
+    "items": [
+      "Gestão de Produto (backlog, discovery, roadmap)",
+      "Estratégia de go-to-market e métricas de crescimento",
+      "Liderança de squads multidisciplinares",
+      "Arquitetura de sistemas e code review",
+      "UX, usabilidade e experiência do usuário",
+      "Análise de KPIs e decisões orientadas a dados",
+      "Cultura ágil (Scrum, Kanban, métricas de eficiência)",
+      "Comunicação com stakeholders e gestão de dependências"
+    ]
+  },
+  "achievements": {
+    "title": "REALIZAÇÕES",
+    "items": [
+      "Redução de 35% no tempo médio de entrega de projetos",
+      "Escalabilidade de operações digitais (+120% demanda sem perda de performance)",
+      "Aumento de 42% na satisfação dos clientes (NPS)",
+      "Liderança de squads globais (AbInbev – BEES) com redução de 28% em impedimentos críticos",
+      "Desenvolvimento de e-commerce escalável (Dafiti) com +10% capacidade de vendas e +20% NPS",
+      "Integrações estratégicas (Grupo NC) que elevaram receita em 15%"
+    ]
+  },
+  "education": {
+    "title": "FORMAÇÃO",
+    "degree": "Engenharia da Computação",
+    "institution": "FACAMP",
+    "period": "2014–2018"
+  },
+  "certifications": {
+    "title": "CERTIFICADOS",
+    "items": [
+      {
+        "name": "Product Management (PM3)",
+        "date": "12/2024"
+      },
+      {
+        "name": "Product Marketing (PM3)",
+        "date": "06/2024"
+      },
+      {
+        "name": "Product Growth (PM3)",
+        "date": "12/2022"
+      },
+      {
+        "name": "Professional Scrum Master (PSM I)",
+        "date": "02/2019"
+      }
+    ]
+  },
+  "courses": {
+    "title": "CURSOS",
+    "items": [
+      "Product Management (PM3) – 41h",
+      "Product Marketing (PM3) – 33h",
+      "Product Growth (PM3) – 39h",
+      "Docker and Kubernetes: The Complete Guide – 22h",
+      "Learn Flutter & Dart to Build iOS & Android Apps – 59h",
+      "Modern React with Redux – 47.5h",
+      "PSM I (Responsive Advisors, LA) – 2 dias",
+      "Node.js: The Complete Guide – 15h",
+      "JavaScript: Understanding the Weird Parts – 11.5h",
+      "Angular 5 – 22h",
+      "GraphQL with React – 13h"
+    ]
+  },
+  "experience": {
+    "title": "EXPERIÊNCIAS PROFISSIONAIS",
+    "items": [
+      {
+        "company": "Impacta Tech",
+        "role": "CEO & Founder",
+        "period": "mar/2024 – atual",
+        "location": "Campinas–SP",
+        "highlights": [
+          "Estruturação da software house e entrega de +10 soluções digitais",
+          "Crescimento de 70% na receita recorrente B2B",
+          "Redução de 35% no tempo médio de entrega com práticas ágeis",
+          "Implementação de pipelines CI/CD com GitHub Actions e Kubernetes",
+          "Definição de métricas de produto e KPIs em Power BI",
+          "Estratégias de go-to-market para produtos SaaS",
+          "Expansão internacional com projetos fullstack (Node.js, React, Next.js)",
+          "Redução de 28% em custos operacionais via automações internas",
+          "Escalabilidade operacional (+120% demanda sem perda de performance)"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "PM | PO | SM (Grupo NC, Germed, EMS)",
+        "period": "abr/2022 – mar/2024",
+        "location": "",
+        "highlights": [
+          "Gestão de integrações que aumentaram 15% da receita em 2 anos",
+          "Criação do MercadoFarma (+100M em receita)",
+          "Liderança de squads e gestão de backlog (Jira, Confluence)",
+          "Redução de 30% no time-to-market",
+          "Criação de dashboards de KPIs (Looker Studio, Power BI)",
+          "Estratégias de lançamento que elevaram adoção SaaS em 25%",
+          "Redução de 40% nas falhas de estoque com integração NHUB"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "Líder de Equipe / Scrum Master (AbInbev – BEES)",
+        "period": "out/2021 – abr/2022",
+        "location": "",
+        "highlights": [
+          "Redução de 28% em impedimentos críticos",
+          "Aumento de 35% na eficiência operacional",
+          "Implementação de dashboards automáticos no Jira/Confluence",
+          "Redução de 25% em retrabalho com backlog estruturado",
+          "Treinamento de equipe em metodologias ágeis"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "Tech Lead (Azul Linhas Aéreas | Marco Polo)",
+        "period": "nov/2020 – out/2021",
+        "location": "",
+        "highlights": [
+          "Aumento de 20% na produtividade",
+          "Redução de 32% em falhas de produção",
+          "Implementação de pipelines de testes e deploy (Kubernetes)",
+          "Aumento de 27% na estabilidade dos sistemas",
+          "Mentoria técnica e revisão de código com GitHub Actions"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "Desenvolvedor Web (Ambev Geotag)",
+        "period": "jul/2020 – out/2020",
+        "location": "",
+        "highlights": [
+          "PWA offline-first com redução de 40% no tempo de carregamento",
+          "Aumento de 30% na estabilidade com microsserviços",
+          "Testes automatizados (Jest), CI/CD e arquitetura escalável"
+        ]
+      },
+      {
+        "company": "Dextra (CI&T)",
+        "role": "Desenvolvedor Web (Dafiti | Dasa)",
+        "period": "abr/2019 – jul/2020",
+        "location": "",
+        "highlights": [
+          "E-commerce escalável (+10% vendas online, +15% performance)",
+          "Desenvolvimento em React, Node.js, GraphQL e Kubernetes",
+          "Testes unitários e visuais (Jest, Cypress)",
+          "CI/CD com CircleCI e arquitetura de microsserviços"
+        ]
+      },
+      {
+        "company": "Indra",
+        "role": "Trainee (Vivo)",
+        "period": "dez/2017 – abr/2019",
+        "location": "",
+        "highlights": [
+          "Desenvolvimento Java/Vue.js",
+          "Redução de 30% em falhas operacionais",
+          "Implementação de pipelines com Git e Jenkins",
+          "Dashboards de performance interna e automação de processos"
+        ]
+      },
+      {
+        "company": "Diebold Nixdorf",
+        "role": "Acadêmico-Profissional",
+        "period": "jul/2016 – dez/2017",
+        "location": "",
+        "highlights": [
+          "Melhoria de processos (-22% tempo operacional)",
+          "Aplicação de metodologias A3 e BPM",
+          "Criação de relatórios e indicadores de performance",
+          "Projetos de inovação organizacional e gamificação"
+        ]
+      }
+    ]
+  },
+  "contests": {
+    "title": "CONCURSOS RELEVANTES",
+    "items": [
+      "Hackathon Campinas (07/2017)",
+      "Hackathon Ambev (10/2015)"
+    ]
+  }
+}
+

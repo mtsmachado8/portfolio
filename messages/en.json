@@ -1,0 +1,215 @@
+{
+  "header": {
+    "name": "MATEUS DA SILVA MACHADO",
+    "title": "Product Owner | Product Manager | Project Manager | Software Developer | Chief Technology Officer",
+    "subtitle": "Computer Engineering",
+    "location": "Brazilian, Married, 30",
+    "email": "mtsmachado8@gmail.com",
+    "phone": "+55 19 99700-2292"
+  },
+  "summary": {
+    "title": "SUMMARY",
+    "description": "I turn technology into profitable products that grow fast and solve real business problems.",
+    "experience": "I have +7 years of experience building results in software, digital products, and project management, with a track record of +40 high-impact deliveries, 8 teams led, and 5 scaled projects.",
+    "achievements": [
+      "I structured a software house from scratch and delivered +10 custom digital solutions, impacting revenue and client expansion.",
+      "I led agile team transformation, eliminating bottlenecks and increasing delivery speed by 42%.",
+      "I led system integrations in a pharmaceutical group and generated product rollouts that accelerated sales by +15%.",
+      "I scaled a national e-commerce with resilient architecture, doubling the active user base in less than 1 year."
+    ]
+  },
+  "skills": {
+    "title": "SYSTEMS / TECH SKILLS",
+    "languages": "Languages",
+    "frameworks": "Frameworks",
+    "infra": "Infrastructure",
+    "databases": "Databases",
+    "analytics": "Analytics",
+    "management": "Management & Design"
+  },
+  "competencies": {
+    "title": "COMPETENCIES",
+    "items": [
+      "Product Management (backlog, discovery, roadmap)",
+      "Go-to-market strategy and growth metrics",
+      "Leadership of multidisciplinary squads",
+      "System architecture and code review",
+      "UX, usability, and user experience",
+      "KPI analysis and data-driven decisions",
+      "Agile culture (Scrum, Kanban, efficiency metrics)",
+      "Stakeholder communication and dependency management"
+    ]
+  },
+  "achievements": {
+    "title": "ACHIEVEMENTS",
+    "items": [
+      "35% reduction in average project delivery time",
+      "Scalability of digital operations (+120% demand without performance loss)",
+      "42% increase in customer satisfaction (NPS)",
+      "Leadership of global squads (AbInbev – BEES) with 28% reduction in critical impediments",
+      "Development of scalable e-commerce (Dafiti) with +10% sales capacity and +20% NPS",
+      "Strategic integrations (Grupo NC) that increased revenue by 15%"
+    ]
+  },
+  "education": {
+    "title": "EDUCATION",
+    "degree": "Computer Engineering",
+    "institution": "FACAMP",
+    "period": "2014–2018"
+  },
+  "certifications": {
+    "title": "CERTIFICATIONS",
+    "items": [
+      {
+        "name": "Product Management (PM3)",
+        "date": "12/2024"
+      },
+      {
+        "name": "Product Marketing (PM3)",
+        "date": "06/2024"
+      },
+      {
+        "name": "Product Growth (PM3)",
+        "date": "12/2022"
+      },
+      {
+        "name": "Professional Scrum Master (PSM I)",
+        "date": "02/2019"
+      }
+    ]
+  },
+  "courses": {
+    "title": "COURSES",
+    "items": [
+      "Product Management (PM3) – 41h",
+      "Product Marketing (PM3) – 33h",
+      "Product Growth (PM3) – 39h",
+      "Docker and Kubernetes: The Complete Guide – 22h",
+      "Learn Flutter & Dart to Build iOS & Android Apps – 59h",
+      "Modern React with Redux – 47.5h",
+      "PSM I (Responsive Advisors, LA) – 2 days",
+      "Node.js: The Complete Guide – 15h",
+      "JavaScript: Understanding the Weird Parts – 11.5h",
+      "Angular 5 – 22h",
+      "GraphQL with React – 13h"
+    ]
+  },
+  "experience": {
+    "title": "PROFESSIONAL EXPERIENCE",
+    "items": [
+      {
+        "company": "Impacta Tech",
+        "role": "CEO & Founder",
+        "period": "Mar/2024 – Present",
+        "location": "Campinas–SP",
+        "highlights": [
+          "Structured the software house and delivered +10 digital solutions",
+          "70% growth in B2B recurring revenue",
+          "35% reduction in average delivery time with agile practices",
+          "CI/CD pipeline implementation with GitHub Actions and Kubernetes",
+          "Product metrics and KPI definition in Power BI",
+          "Go-to-market strategies for SaaS products",
+          "International expansion with fullstack projects (Node.js, React, Next.js)",
+          "28% reduction in operational costs through internal automations",
+          "Operational scalability (+120% demand without performance loss)"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "PM | PO | SM (Grupo NC, Germed, EMS)",
+        "period": "Apr/2022 – Mar/2024",
+        "location": "",
+        "highlights": [
+          "Managed integrations that increased revenue by 15% in 2 years",
+          "Created MercadoFarma (+100M in revenue)",
+          "Squad leadership and backlog management (Jira, Confluence)",
+          "30% reduction in time-to-market",
+          "KPI dashboard creation (Looker Studio, Power BI)",
+          "Launch strategies that increased SaaS adoption by 25%",
+          "40% reduction in stock failures with NHUB integration"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "Team Leader / Scrum Master (AbInbev – BEES)",
+        "period": "Oct/2021 – Apr/2022",
+        "location": "",
+        "highlights": [
+          "28% reduction in critical impediments",
+          "35% increase in operational efficiency",
+          "Automatic dashboard implementation in Jira/Confluence",
+          "25% reduction in rework with structured backlog",
+          "Team training in agile methodologies"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "Tech Lead (Azul Airlines | Marco Polo)",
+        "period": "Nov/2020 – Oct/2021",
+        "location": "",
+        "highlights": [
+          "20% increase in productivity",
+          "32% reduction in production failures",
+          "Test and deploy pipeline implementation (Kubernetes)",
+          "27% increase in system stability",
+          "Technical mentoring and code review with GitHub Actions"
+        ]
+      },
+      {
+        "company": "levva",
+        "role": "Web Developer (Ambev Geotag)",
+        "period": "Jul/2020 – Oct/2020",
+        "location": "",
+        "highlights": [
+          "Offline-first PWA with 40% reduction in loading time",
+          "30% increase in stability with microservices",
+          "Automated tests (Jest), CI/CD and scalable architecture"
+        ]
+      },
+      {
+        "company": "Dextra (CI&T)",
+        "role": "Web Developer (Dafiti | Dasa)",
+        "period": "Apr/2019 – Jul/2020",
+        "location": "",
+        "highlights": [
+          "Scalable e-commerce (+10% online sales, +15% performance)",
+          "Development in React, Node.js, GraphQL and Kubernetes",
+          "Unit and visual tests (Jest, Cypress)",
+          "CI/CD with CircleCI and microservices architecture"
+        ]
+      },
+      {
+        "company": "Indra",
+        "role": "Trainee (Vivo)",
+        "period": "Dec/2017 – Apr/2019",
+        "location": "",
+        "highlights": [
+          "Java/Vue.js development",
+          "30% reduction in operational failures",
+          "Pipeline implementation with Git and Jenkins",
+          "Internal performance dashboards and process automation"
+        ]
+      },
+      {
+        "company": "Diebold Nixdorf",
+        "role": "Academic-Professional",
+        "period": "Jul/2016 – Dec/2017",
+        "location": "",
+        "highlights": [
+          "Process improvement (-22% operational time)",
+          "A3 and BPM methodology application",
+          "Report creation and performance indicators",
+          "Organizational innovation and gamification projects"
+        ]
+      }
+    ]
+  },
+  "contests": {
+    "title": "RELEVANT CONTESTS",
+    "items": [
+      "Hackathon Campinas (07/2017)",
+      "Hackathon Ambev (10/2015)"
+    ]
+  }
+}
+
