@@ -19,7 +19,7 @@ export default function LanguageSwitcher() {
   };
 
   return (
-    <div className="flex justify-end mb-6">
+    <div className="flex justify-end mb-4 px-2 sm:px-0">
       <div className="flex gap-2">
         <Button
           variant={locale === 'pt' ? 'default' : 'outline'}
